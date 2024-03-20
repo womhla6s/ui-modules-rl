@@ -1,5 +1,5 @@
 {
-  "name": "ui-modules-rl",
+  "name": "@womhla6s/ui-modules-rl",
   "version": "1.0.0",
   "description": "connect to ui-modules-rl on frontend rewiki labs",
   "main": "ui-modules-rl.js",
